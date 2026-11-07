@@ -1,0 +1,27 @@
+PREC = Normal
+   ENCUT = 500
+  IBRION = -1
+     NSW = 0
+    ISIF = 3
+   EDIFF = 1.0e-06
+  EDIFFG = -0.01
+    NELM = 880
+    ALGO = Normal 
+   ISPIN = 2
+  MAGMOM=12*1
+  ICHARG = 11
+LORBIT=11
+   LWAVE = .FALSE.
+  LCHARG = .TRUE.
+  ISMEAR = 0
+   SIGMA = 0.05
+   LREAL = .FALSE.
+LSCALAPACK = .FALSE.
+ RWIGS= 1.566 1.164 0.741
+   KPAR  = 8
+   NCORE = 10
+EMAX=12.2015
+EMIN=-17.7985
+NEDOS=3001
+
+
